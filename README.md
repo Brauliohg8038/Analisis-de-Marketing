@@ -10,3 +10,5 @@ Este proyecto busca analizar múltiples dimensiones de los datos de marketing, v
 - **Visualización:** Matplotlib, Seaborn y Dashboar (general Power Bi).
 - **Modelado predictivo:** Regresión lineal, polinómica, Random Forest, XGBoost.
 - **Validación:** Validación cruzada, regularización Ridge, métricas de desempeño (MSE, R²).
+
+  *Nota: Los gráficos fueron diseñados con fondo negro para su uso en la presentación final. Se recomienda ajustar el entorno de visualización (modo oscuro o fondo oscuro) para una mejor apreciación de los elementos visuales.*
