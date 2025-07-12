@@ -7,7 +7,7 @@ Este proyecto busca analizar múltiples dimensiones de los datos de marketing, v
 **Tecnologías y herramientas utilizadas**
 
 - **Lenguaje:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost).
-- **Visualización:** Matplotlib, Seaborn y Dashboar (general Power Bi).
+- **Visualización:** Matplotlib, Seaborn y Dashboard (general Power Bi).
 - **Modelado predictivo:** Regresión lineal, polinómica, Random Forest, XGBoost.
 - **Validación:** Validación cruzada, regularización Ridge, métricas de desempeño (MSE, R²).
 
