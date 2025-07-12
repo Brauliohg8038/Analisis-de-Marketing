@@ -1,4 +1,4 @@
-<h1> Análisis de la efiencia y el desempeño de las campañas de Marketing</h1>
+<h1> Análisis de la eficiencia y el desempeño de las campañas de Marketing</h1>
 <h2> Descripción del proyecto </h2>
 
 Este proyecto busca analizar múltiples dimensiones de los datos de marketing, ventas y comportamiento del cliente para identificar oportunidades de mejora y optimización. A través de técnicas de análisis exploratorio, visualización de datos y modelos de machine learning, se extraen hallazgos clave que orientan recomendaciones accionables para maximizar la rentabilidad y mejorar la retención de talento.
